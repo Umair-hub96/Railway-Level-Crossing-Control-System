@@ -14,7 +14,6 @@ Reason: The alarm provides an additional warning to road users, including people
 
 ## C5: Barrier must remain closed while the train is passing
 Reason: Keeping the barrier closed prevents road traffic from entering the crossing while the train is passing.
-
 ## C6: Barrier must open only after the train has completely cleared the crossing
 Reason: Opening the barrier before the train has completely cleared the crossing could create a dangerous situation.
 
